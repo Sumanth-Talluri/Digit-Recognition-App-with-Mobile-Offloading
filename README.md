@@ -68,3 +68,13 @@ quadrant of the image will be sent to the corresponding client mobile for analys
 to predict the final output. It uses the maximum digit frequency to finalize the predicted
 digit and is toasted with the message “Predicted number - {}”. Also, the image will be
 saved to the corresponding digit folder in the android device.
+
+## Collaborators
+
+<a href="https://github.com/praveenchiliveri6">
+  Chiliveri Praveen
+</a>
+
+<a href="https://github.com/udayadara28ts">
+  udayadara28ts
+</a>
