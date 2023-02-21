@@ -16,6 +16,8 @@ In this project, we developed Android Applications (Master application and clien
 8. The predictions from each client device are sent to the main device.
 9. Based on the predictions received from the various client devices, the main device will store the image in the appropriate folder based on the final predicted number if the user clicks on the save image button.
 
+You can download the dataset from [here](https://www.tensorflow.org/datasets/catalog/mnist")
+
 <br>
 
 <img alt="Application Workflow Diagram" src="./Workflow Diagram.png"  width="60%" height="60%">
