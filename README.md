@@ -1,6 +1,8 @@
 # Digit-Recognition-App-with-Mobile-Offloading
 
-## Intro
+## Introduction
+
+In this project, we developed Android Applications (Master application and client application) which are used to capture an image of handwritten digits and divide it into 4 different parts and send to the client mobiles. Then we use the client mobiles to classify the image and determine the digit. The result is then sent back to master mobile and the image will be stored in a folder with the number that is predicted.
 
 ## Application Workflow
 
